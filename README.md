@@ -1,5 +1,6 @@
-This project includes sample applications that demonstrate different features of the Android Framework and Support Library.
+ReciclierView with Animations sample poject.
 
+This project includes sample applications that demonstrate different features of the Android Framework and Support Library.
 It is actively managed by the Android Framework Team.
 
 ### Disclaimers
